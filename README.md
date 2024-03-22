@@ -1,1 +1,1 @@
-Estos son algunos ejercicios básicos e intermedios con C Sharp que desarrolle.
+Estos son algunos ejercicios básicos e intermedios que desarrolle con C Sharp.
