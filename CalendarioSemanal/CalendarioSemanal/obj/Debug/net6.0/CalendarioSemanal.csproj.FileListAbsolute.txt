@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\bin\Debug\net6.0\CalendarioSemanal.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\bin\Debug\net6.0\CalendarioSemanal.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\bin\Debug\net6.0\CalendarioSemanal.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\bin\Debug\net6.0\CalendarioSemanal.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\bin\Debug\net6.0\CalendarioSemanal.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\refint\CalendarioSemanal.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\CalendarioSemanal.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CalendarioSemanal\CalendarioSemanal\obj\Debug\net6.0\ref\CalendarioSemanal.dll

@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\bin\Debug\net6.0\CajeroAutomatico.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\refint\CajeroAutomatico.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\CajeroAutomatico.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Lab 3\CajeroAutomatico\CajeroAutomatico\obj\Debug\net6.0\ref\CajeroAutomatico.dll
