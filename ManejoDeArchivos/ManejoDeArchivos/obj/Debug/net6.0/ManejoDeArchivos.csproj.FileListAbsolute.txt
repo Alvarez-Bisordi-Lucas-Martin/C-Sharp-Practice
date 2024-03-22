@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\bin\Debug\net6.0\ManejoDeArchivos.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\refint\ManejoDeArchivos.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ManejoDeArchivos.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\ManejoDeArchivos\ManejoDeArchivos\obj\Debug\net6.0\ref\ManejoDeArchivos.dll

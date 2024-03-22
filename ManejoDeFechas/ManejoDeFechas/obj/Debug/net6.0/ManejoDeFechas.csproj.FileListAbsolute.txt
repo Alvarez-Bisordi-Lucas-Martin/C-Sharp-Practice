@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\bin\Debug\net6.0\ManejoDeFechas.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\refint\ManejoDeFechas.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ManejoDeFechas.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ManejoDeFechas\ManejoDeFechas\obj\Debug\net6.0\ref\ManejoDeFechas.dll

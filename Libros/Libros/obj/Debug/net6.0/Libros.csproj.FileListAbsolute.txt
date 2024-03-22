@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\bin\Debug\net6.0\Libros.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\bin\Debug\net6.0\Libros.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\bin\Debug\net6.0\Libros.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\bin\Debug\net6.0\Libros.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\bin\Debug\net6.0\Libros.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\refint\Libros.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\Libros.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Libros\Libros\obj\Debug\net6.0\ref\Libros.dll
