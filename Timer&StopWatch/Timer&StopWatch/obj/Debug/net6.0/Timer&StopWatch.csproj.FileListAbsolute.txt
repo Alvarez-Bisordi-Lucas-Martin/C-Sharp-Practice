@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\bin\Debug\net6.0\Timer&StopWatch.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\bin\Debug\net6.0\Timer&StopWatch.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\bin\Debug\net6.0\Timer&StopWatch.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\bin\Debug\net6.0\Timer&StopWatch.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\bin\Debug\net6.0\Timer&StopWatch.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\refint\Timer&StopWatch.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\Timer&StopWatch.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\Timer&StopWatch\Timer&StopWatch\obj\Debug\net6.0\ref\Timer&StopWatch.dll
