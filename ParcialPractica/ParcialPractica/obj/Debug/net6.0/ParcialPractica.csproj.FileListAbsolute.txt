@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\bin\Debug\net6.0\ParcialPractica.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\bin\Debug\net6.0\ParcialPractica.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\bin\Debug\net6.0\ParcialPractica.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\bin\Debug\net6.0\ParcialPractica.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\bin\Debug\net6.0\ParcialPractica.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\refint\ParcialPractica.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ParcialPractica.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\ParcialPractica\ParcialPractica\obj\Debug\net6.0\ref\ParcialPractica.dll

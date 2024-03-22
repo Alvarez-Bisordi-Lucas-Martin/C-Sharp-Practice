@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\bin\Debug\net6.0\Parametros-Moda.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\bin\Debug\net6.0\Parametros-Moda.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\bin\Debug\net6.0\Parametros-Moda.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\bin\Debug\net6.0\Parametros-Moda.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\bin\Debug\net6.0\Parametros-Moda.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\refint\Parametros-Moda.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\Parametros-Moda.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Parametros-Moda\Parametros-Moda\obj\Debug\net6.0\ref\Parametros-Moda.dll
