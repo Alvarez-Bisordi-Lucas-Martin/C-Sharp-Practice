@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\bin\Debug\net6.0\CuentaBancaria.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\refint\CuentaBancaria.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\CuentaBancaria.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\Ejercicios Practicos\CuentaBancaria\CuentaBancaria\obj\Debug\net6.0\ref\CuentaBancaria.dll

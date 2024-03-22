@@ -1,0 +1,15 @@
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\bin\Debug\net6.0\CifradoCesar.exe
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\bin\Debug\net6.0\CifradoCesar.deps.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\bin\Debug\net6.0\CifradoCesar.runtimeconfig.json
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\bin\Debug\net6.0\CifradoCesar.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\bin\Debug\net6.0\CifradoCesar.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.csproj.AssemblyReference.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\refint\CifradoCesar.dll
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.pdb
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\CifradoCesar.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Documentos\Tecnicatura en Programacion\2do Año\Prog 3\CifradoCesar\CifradoCesar\obj\Debug\net6.0\ref\CifradoCesar.dll
